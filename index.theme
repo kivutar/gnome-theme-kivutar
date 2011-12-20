@@ -1,0 +1,10 @@
+[X-GNOME-Metatheme]
+Name=Kivutar
+Type=X-GNOME-Metatheme
+Comment=My work-in-progress theme
+Encoding=UTF-8
+GtkTheme=Kivutar
+MetacityTheme=Kivutar
+IconTheme=Faenza
+CursorTheme=Adwaita
+CursorSize=24
